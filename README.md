@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafi Alam</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Full-Stack Software Engineer from Bangladesh</h3>
 
 ## 💫 About Me:
 - 🔭 Current Stack: Node.js, Express.js, React.js, Next.js, MongoDB, SocketIO, AWS.
