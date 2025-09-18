@@ -2,9 +2,10 @@
 <h3 align="center">A passionate Full-Stack Software Engineer from Bangladesh</h3>
 
 ## 💫 About Me:
-- 🔭 Current Stack: Node.js, Express.js, React.js, Next.js, MongoDB, SocketIO, AWS.
-- 🌱 Currently Learning: Redis, GraphQL, SEO
+- 🔭 Stack: Node.js, Express.js, React.js, Next.js, MySQL, PostgreSQL, MongoDB, SocketIO, Redis, GraphQL, SEO, AWS.
+- 🌱 Currently Working on: Cloud-native sandbox projects. 
 - ⚡ Completed Bachelor in Computer Science and Engineering from Rajshahi University of Engineering & Technology, Rajshahi, Bangladesh.
+<!-- - 🌱 Currently Learning: Redis, GraphQL, SEO -->
 
 <br>
 
